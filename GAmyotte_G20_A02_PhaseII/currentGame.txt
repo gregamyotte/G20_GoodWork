@@ -1,0 +1,14 @@
+6
+9
+A1 A2 A3 A4 A5
+F6 F5 F4 F3
+B2 C3 D4
+B1 C1 D1
+E3 E4
+Greg
+H H H H E E E E E 
+H H M M E E E E E 
+H M H M H H E E E 
+H M M H H H E E E 
+H E E E E H E E E 
+E E E E E E E E E 
